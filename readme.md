@@ -6,7 +6,7 @@ L'objectif est d'apprendre à utiliser TailwindCSS pour structurer rapidement un
 📖 **Documentation officielle TailwindCSS** : [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
 
 📌 **Aperçu du résultat final** :  
-![Aperçu du Dashboard](./result.png)
+![Aperçu du Dashboard](./result.PNG)
 
 ---
 
