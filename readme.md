@@ -1,6 +1,6 @@
 # 🖥️ Dashboard Minimaliste avec TailwindCSS  
 
-Ce projet est un dashboard simple et responsive conçu avec **TailwindCSS**. Il comprend une sidebar, une section statistiques, et un tableau de données.  
+Ce projet est un dashboard simple et responsive conçu avec **TailwindCSS**. Il comprend une sidebar, un header, une section statistiques, et un tableau de données.  
 L'objectif est d'apprendre à utiliser TailwindCSS pour structurer rapidement une page avec Flexbox, Grid et des styles utilitaires.
 
 📖 **Documentation officielle TailwindCSS** : [https://tailwindcss.com/docs](https://tailwindcss.com/docs)
