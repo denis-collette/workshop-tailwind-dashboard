@@ -12,7 +12,7 @@ L'objectif est d'apprendre à utiliser TailwindCSS pour structurer rapidement un
 
 ## 🚀 Installation et Lancement  
 
-* **Cloner le repo**
+* **Forker le repo**
 * **Ajouter TailwindCSS via CDN** en insérant ce script dans `<head>` :  
    ```html
    <script src="https://cdn.tailwindcss.com"></script>
